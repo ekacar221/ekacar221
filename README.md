@@ -22,7 +22,7 @@ Currently leading mobile development for an AI-powered Healthy Lifestyle Mobile 
 
 ### 🌐 Connect & Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kullanici-adiniz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emine-b%C3%BC%C5%9Fra-ka%C3%A7ar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekacar221)
 
 ---
